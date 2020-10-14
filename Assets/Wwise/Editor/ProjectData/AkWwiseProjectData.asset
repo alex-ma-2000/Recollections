@@ -1,0 +1,736 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fde40d844c0172943beb95d66e97ec62, type: 3}
+  m_Name: AkWwiseProjectData
+  m_EditorClassIdentifier: 
+  AcousticTextureWwu:
+  - PhysicalPath: Virtual Acoustics\Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: 21db70df60287e4e906cb0ec23213197
+    GuidInternal: 
+    m_lastTime: -8586209863846435313
+    List: []
+  AuxBusWwu:
+  - PhysicalPath: Master-Mixer Hierarchy\Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: 203e24245c58c244abb2739da4bf568e
+    GuidInternal: 
+    m_lastTime: -8586209863786448635
+    List: []
+  BankWwu:
+  - PhysicalPath: SoundBanks\Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: 484aa79c2b06a846a96f0d9927aec0b9
+    GuidInternal: 
+    m_lastTime: -8586209863844879184
+    List:
+    - name: Soundbank_1
+      guid: 7c24799f7740b64dacc47502b7808992
+      id: 2878262188
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Soundbank_1
+        ObjectType: 7
+      Path: Default Work Unit\Soundbank_1
+  EventWwu:
+  - PhysicalPath: Events\Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: e3f60a0f90a1654a9bdd380b7a7c9bb3
+    GuidInternal: 
+    m_lastTime: -8586209863846205953
+    List:
+    - name: Play_Scene
+      guid: 2bc37f1400efcf408c1d9db5356e9025
+      id: 3171261618
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Play_Scene
+        ObjectType: 3
+      Path: Default Work Unit\Play_Scene
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: Set_State_Hospital
+      guid: d4dd3b6bdd9d194caf5994317d8e3c6e
+      id: 852898390
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Set_State_Hospital
+        ObjectType: 3
+      Path: Default Work Unit\Set_State_Hospital
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: Set_State_Memory_1
+      guid: c95bf63f8a31e2479f4cf239593ea595
+      id: 2150534521
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Set_State_Memory_1
+        ObjectType: 3
+      Path: Default Work Unit\Set_State_Memory_1
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: Set_State_Memory_2
+      guid: 4544ad76643ee340a6c0663fc7926894
+      id: 2150534522
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Set_State_Memory_2
+        ObjectType: 3
+      Path: Default Work Unit\Set_State_Memory_2
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: Set_State_Memory_3
+      guid: 0717478e93f2c64282baa9dcaa76c20f
+      id: 2150534523
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Set_State_Memory_3
+        ObjectType: 3
+      Path: Default Work Unit\Set_State_Memory_3
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: Set_State_Surfing_Off
+      guid: 42f9a138851f5e469c91a358cda4cf4a
+      id: 825936494
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Set_State_Surfing_Off
+        ObjectType: 3
+      Path: Default Work Unit\Set_State_Surfing_Off
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: Set_State_Surfing_On
+      guid: 603790065a928840bbe84f36b59aeb27
+      id: 824341200
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Set_State_Surfing_On
+        ObjectType: 3
+      Path: Default Work Unit\Set_State_Surfing_On
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: Stop_All
+      guid: fbab2163de473c4d8cf3101e6ff6f3ed
+      id: 452547817
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Stop_All
+        ObjectType: 3
+      Path: Default Work Unit\Stop_All
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: Trigger_Dad_Line_1
+      guid: 4ab52c11c584b3498921759a4fcbaf2c
+      id: 2360077326
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Trigger_Dad_Line_1
+        ObjectType: 3
+      Path: Default Work Unit\Trigger_Dad_Line_1
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: Trigger_Hospital_Motif
+      guid: 407ba373ba72f143864cfa9c55d8446e
+      id: 1917611120
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Trigger_Hospital_Motif
+        ObjectType: 3
+      Path: Default Work Unit\Trigger_Hospital_Motif
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: Trigger_Memory_Full_1
+      guid: 9a92266c70c0bd4fae55c94b2bfb4fb0
+      id: 2761296585
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Trigger_Memory_Full_1
+        ObjectType: 3
+      Path: Default Work Unit\Trigger_Memory_Full_1
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: Trigger_Memory_Full_2
+      guid: 22a231d2663bb44cbbff62640e2d7341
+      id: 2761296586
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Trigger_Memory_Full_2
+        ObjectType: 3
+      Path: Default Work Unit\Trigger_Memory_Full_2
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: Trigger_Memory_Full_3
+      guid: 2f0b6a65369e5140865846b9746bcdd4
+      id: 2761296587
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Trigger_Memory_Full_3
+        ObjectType: 3
+      Path: Default Work Unit\Trigger_Memory_Full_3
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: Trigger_Memory_Motif_1
+      guid: 0b255a4e883aa44fa72892433db6040b
+      id: 311492687
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Trigger_Memory_Motif_1
+        ObjectType: 3
+      Path: Default Work Unit\Trigger_Memory_Motif_1
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: Trigger_Memory_Motif_2
+      guid: 202f10ce0c56d14eb6ec3a7b0d9b8809
+      id: 311492684
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Trigger_Memory_Motif_2
+        ObjectType: 3
+      Path: Default Work Unit\Trigger_Memory_Motif_2
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: Trigger_Memory_Motif_3
+      guid: fdfd483c9cc5224e97f4ce577071172c
+      id: 311492685
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Trigger_Memory_Motif_3
+        ObjectType: 3
+      Path: Default Work Unit\Trigger_Memory_Motif_3
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: Trigger_Memory_Segment_1_1
+      guid: fc00f3c89a1c0042bfa7b5575928a4a0
+      id: 1678326701
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Trigger_Memory_Segment_1_1
+        ObjectType: 3
+      Path: Default Work Unit\Trigger_Memory_Segment_1_1
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: Trigger_Memory_Segment_1_2
+      guid: 185ea724661e234da3622b97d15782f1
+      id: 1678326702
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Trigger_Memory_Segment_1_2
+        ObjectType: 3
+      Path: Default Work Unit\Trigger_Memory_Segment_1_2
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: Trigger_Memory_Segment_1_3
+      guid: 83ea20f2a535c34290f60f88b4a33050
+      id: 1678326703
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Trigger_Memory_Segment_1_3
+        ObjectType: 3
+      Path: Default Work Unit\Trigger_Memory_Segment_1_3
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: Trigger_Memory_Segment_2_1
+      guid: f73270ea616b984e9b36b429573eef49
+      id: 1678473730
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Trigger_Memory_Segment_2_1
+        ObjectType: 3
+      Path: Default Work Unit\Trigger_Memory_Segment_2_1
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: Trigger_Memory_Segment_2_2
+      guid: a451ea4aa068c04d8efe805ddf25eb50
+      id: 1678473729
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Trigger_Memory_Segment_2_2
+        ObjectType: 3
+      Path: Default Work Unit\Trigger_Memory_Segment_2_2
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: Trigger_Memory_Segment_2_3
+      guid: 4aedf79943d2f04c9f6c25aa17edbce7
+      id: 1678473728
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Trigger_Memory_Segment_2_3
+        ObjectType: 3
+      Path: Default Work Unit\Trigger_Memory_Segment_2_3
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: Trigger_Memory_Segment_3_1
+      guid: ae4270c52c4b8b44b390a362485083fb
+      id: 604853307
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Trigger_Memory_Segment_3_1
+        ObjectType: 3
+      Path: Default Work Unit\Trigger_Memory_Segment_3_1
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: Trigger_Memory_Segment_3_2
+      guid: 29ed37894d5fa648b3e31ce6c1ea217c
+      id: 604853304
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Trigger_Memory_Segment_3_2
+        ObjectType: 3
+      Path: Default Work Unit\Trigger_Memory_Segment_3_2
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: Trigger_Memory_Segment_3_3
+      guid: f9c902f18763d34ebed83ef19f0b9aa8
+      id: 604853305
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Trigger_Memory_Segment_3_3
+        ObjectType: 3
+      Path: Default Work Unit\Trigger_Memory_Segment_3_3
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: Trigger_Son_Line_1
+      guid: 5dd480c4d978c34b96c4e115838e252c
+      id: 2809728539
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Trigger_Son_Line_1
+        ObjectType: 3
+      Path: Default Work Unit\Trigger_Son_Line_1
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: Trigger_Son_Line_2
+      guid: a70a686b8f10354c8e9193028e826c4a
+      id: 2809728536
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Trigger_Son_Line_2
+        ObjectType: 3
+      Path: Default Work Unit\Trigger_Son_Line_2
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: Trigger_Son_Line_3
+      guid: 8af6cd999b291d4488077379e8d19324
+      id: 2809728537
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Trigger_Son_Line_3
+        ObjectType: 3
+      Path: Default Work Unit\Trigger_Son_Line_3
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: Trigger_Son_Line_4
+      guid: bc146ee65cf5ba418d817bd3c4eba79b
+      id: 2809728542
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Trigger_Son_Line_4
+        ObjectType: 3
+      Path: Default Work Unit\Trigger_Son_Line_4
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: Trigger_Son_Line_5
+      guid: ff1e6128e4a4674090c87d5d99b8db99
+      id: 2809728543
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Trigger_Son_Line_5
+        ObjectType: 3
+      Path: Default Work Unit\Trigger_Son_Line_5
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+  RtpcWwu:
+  - PhysicalPath: Game Parameters\Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: aa74d5388eb3a545a897cfb58d342bcb
+    GuidInternal: 
+    m_lastTime: -8586209863846654429
+    List: []
+  StateWwu:
+  - PhysicalPath: States\Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: dd167f1a72f2a84fb978cd92a835e9b0
+    GuidInternal: 
+    m_lastTime: -8586209863795121579
+    List:
+    - name: Player_State
+      guid: 8ce1f7f87baf9e4485799cae369b6ff0
+      id: 4071417932
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Player_State
+        ObjectType: 9
+      Path: Default Work Unit\Player_State
+      values:
+      - name: Hospital
+        guid: 09f12b1bd8463e4392f2166daeb26e05
+        id: 1640084191
+        PathAndIcons:
+        - ElementName: Hospital
+          ObjectType: 8
+      - name: Memory_1
+        guid: 90382b71d2f9ee4fb672d0df77164f2b
+        id: 85707508
+        PathAndIcons:
+        - ElementName: Memory_1
+          ObjectType: 8
+      - name: Memory_2
+        guid: e3dd632e7b57704fb8a8d96022a58c09
+        id: 85707511
+        PathAndIcons:
+        - ElementName: Memory_2
+          ObjectType: 8
+      - name: Memory_3
+        guid: b7fdcf508cd56b489aa45e23b7bdaad8
+        id: 85707510
+        PathAndIcons:
+        - ElementName: Memory_3
+          ObjectType: 8
+      - name: Menu
+        guid: bc17d3e4df60a942aa6df1e6d95cb71b
+        id: 2607556080
+        PathAndIcons:
+        - ElementName: Menu
+          ObjectType: 8
+      - name: None
+        guid: dd946ce27a45914e9821386015d19d06
+        id: 748895195
+        PathAndIcons:
+        - ElementName: None
+          ObjectType: 8
+      ValueGuids: []
+      ValueIcons: []
+      valuesInternal: []
+    - name: Surfing
+      guid: 7f92e631134ba843be2f27ab2f4ba97b
+      id: 1212342659
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Surfing
+        ObjectType: 9
+      Path: Default Work Unit\Surfing
+      values:
+      - name: None
+        guid: 609fa7f8298fa649befd7df3fec1b0f9
+        id: 748895195
+        PathAndIcons:
+        - ElementName: None
+          ObjectType: 8
+      - name: Surfing
+        guid: 3c27322039f84344a316bde576324d34
+        id: 1212342659
+        PathAndIcons:
+        - ElementName: Surfing
+          ObjectType: 8
+      ValueGuids: []
+      ValueIcons: []
+      valuesInternal: []
+  SwitchWwu:
+  - PhysicalPath: Switches\Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: c5e3a6e3be1aeb41bc798e3089086097
+    GuidInternal: 
+    m_lastTime: -8586209863845537738
+    List:
+    - name: Surfing
+      guid: d4c4d6905259d5499535bbfd42b537a4
+      id: 1212342659
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Surfing
+        ObjectType: 11
+      Path: Default Work Unit\Surfing
+      values:
+      - name: surfing
+        guid: bc1112427e654f438acdfdb45879229b
+        id: 1212342659
+        PathAndIcons:
+        - ElementName: surfing
+          ObjectType: 10
+      ValueGuids: []
+      ValueIcons: []
+      valuesInternal: []
+  TriggerWwu:
+  - PhysicalPath: Triggers\Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: 519d59153d6f7141a22dc100f9cd60ab
+    GuidInternal: 
+    m_lastTime: -8586209863847063338
+    List:
+    - name: Dad_Line_1
+      guid: dc2b70ed5e01cf4eb62e79031ab5ac36
+      id: 2731925461
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Dad_Line_1
+        ObjectType: 14
+      Path: Default Work Unit\Dad_Line_1
+    - name: Hospital_Motif
+      guid: 2aeaf0701bcd7340a03b10d7497e36bb
+      id: 755151087
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Hospital_Motif
+        ObjectType: 14
+      Path: Default Work Unit\Hospital_Motif
+    - name: Memory_Full_1
+      guid: b4590e3b7beff54fa7186ad1fa4d1251
+      id: 997174248
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Memory_Full_1
+        ObjectType: 14
+      Path: Default Work Unit\Memory_Full_1
+    - name: Memory_Full_2
+      guid: 241ede0e8ee34b40b39c601317b9450d
+      id: 997174251
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Memory_Full_2
+        ObjectType: 14
+      Path: Default Work Unit\Memory_Full_2
+    - name: Memory_Full_3
+      guid: ad68151b84e16e4e9ee91ed0afa952f1
+      id: 997174250
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Memory_Full_3
+        ObjectType: 14
+      Path: Default Work Unit\Memory_Full_3
+    - name: Memory_Motif_1
+      guid: d379fb8d8b69774380b0cdb7950503a5
+      id: 1428343764
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Memory_Motif_1
+        ObjectType: 14
+      Path: Default Work Unit\Memory_Motif_1
+    - name: Memory_Motif_2
+      guid: a563ec75d01a264f90dd10dd08d6f60e
+      id: 1428343767
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Memory_Motif_2
+        ObjectType: 14
+      Path: Default Work Unit\Memory_Motif_2
+    - name: Memory_Motif_3
+      guid: 08faafb2d9bec3448b0ac679786ecbc3
+      id: 1428343766
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Memory_Motif_3
+        ObjectType: 14
+      Path: Default Work Unit\Memory_Motif_3
+    - name: Memory_Segment_1_1
+      guid: f5140164b740d34f9bbf93c771a41c7f
+      id: 1351468290
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Memory_Segment_1_1
+        ObjectType: 14
+      Path: Default Work Unit\Memory_Segment_1_1
+    - name: Memory_Segment_1_2
+      guid: 6545bf71e5784f449b4264d02396b6de
+      id: 1351468289
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Memory_Segment_1_2
+        ObjectType: 14
+      Path: Default Work Unit\Memory_Segment_1_2
+    - name: Memory_Segment_1_3
+      guid: cc039f425ac55f449bec50be4d6090b8
+      id: 1351468288
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Memory_Segment_1_3
+        ObjectType: 14
+      Path: Default Work Unit\Memory_Segment_1_3
+    - name: Memory_Segment_2_1
+      guid: c64d8ea3b4c8fb448ade5293303c06a1
+      id: 1351321261
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Memory_Segment_2_1
+        ObjectType: 14
+      Path: Default Work Unit\Memory_Segment_2_1
+    - name: Memory_Segment_2_2
+      guid: 3a9dacd296f23b4485ac4ac556d28462
+      id: 1351321262
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Memory_Segment_2_2
+        ObjectType: 14
+      Path: Default Work Unit\Memory_Segment_2_2
+    - name: Memory_Segment_2_3
+      guid: 48d7d2f4abc5f74d885d8cba1e55cd63
+      id: 1351321263
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Memory_Segment_2_3
+        ObjectType: 14
+      Path: Default Work Unit\Memory_Segment_2_3
+    - name: Memory_Segment_3_1
+      guid: 5440a5b3da12d04bba5755a394ad5062
+      id: 277406580
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Memory_Segment_3_1
+        ObjectType: 14
+      Path: Default Work Unit\Memory_Segment_3_1
+    - name: Memory_Segment_3_2
+      guid: ea8ff0b4833faf4f8b22b49637d27b06
+      id: 277406583
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Memory_Segment_3_2
+        ObjectType: 14
+      Path: Default Work Unit\Memory_Segment_3_2
+    - name: Memory_Segment_3_3
+      guid: 31688dc832bc9d498940a9a49a8c4ddc
+      id: 277406582
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Memory_Segment_3_3
+        ObjectType: 14
+      Path: Default Work Unit\Memory_Segment_3_3
+    - name: Son_Line_1
+      guid: a8211ddea6375f46bdee39b8aa37fc9f
+      id: 885398920
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Son_Line_1
+        ObjectType: 14
+      Path: Default Work Unit\Son_Line_1
+    - name: Son_Line_2
+      guid: c606e34ba24c5a44830a7544367a5712
+      id: 885398923
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Son_Line_2
+        ObjectType: 14
+      Path: Default Work Unit\Son_Line_2
+    - name: Son_Line_3
+      guid: b88292c01e320b4b9695faaeda005755
+      id: 885398922
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Son_Line_3
+        ObjectType: 14
+      Path: Default Work Unit\Son_Line_3
+    - name: Son_Line_4
+      guid: a7d3318f72432448b9d7ba2caeebb059
+      id: 885398925
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Son_Line_4
+        ObjectType: 14
+      Path: Default Work Unit\Son_Line_4
+    - name: Son_Line_5
+      guid: e54ef434d8f799498d32cf777abe56e6
+      id: 885398924
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Son_Line_5
+        ObjectType: 14
+      Path: Default Work Unit\Son_Line_5
+  ExpandedItems:
+  - /Do you Remember
+  - /Do you Remember/Events
+  - /Do you Remember/Events/Default Work Unit
+  autoPopulateEnabled: 1
+  CurrentPluginConfig: 

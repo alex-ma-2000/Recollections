@@ -1,0 +1,817 @@
+fileFormatVersion: 2
+guid: 5e953ef6ad341904395b4f7ddcff83f5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2765175870314258152
+    second: Tutortial Animations_0
+  - first:
+      213: 2824501836130759718
+    second: Tutortial Animations_1
+  - first:
+      213: -6879103628855400713
+    second: Tutortial Animations_2
+  - first:
+      213: -1788443996468198055
+    second: Tutortial Animations_3
+  - first:
+      213: 7069702457710207381
+    second: Tutortial Animations_4
+  - first:
+      213: -4371699347063481337
+    second: Tutortial Animations_5
+  - first:
+      213: -6581502821241164632
+    second: Tutortial Animations_6
+  - first:
+      213: 9105139644203372101
+    second: Tutortial Animations_7
+  - first:
+      213: 6897838894121095090
+    second: Tutortial Animations_8
+  - first:
+      213: -6856087677751200064
+    second: Tutortial Animations_9
+  - first:
+      213: -4355464647773011247
+    second: Tutortial Animations_10
+  - first:
+      213: -6883362067698495341
+    second: Tutortial Animations_11
+  - first:
+      213: -5323091323366555041
+    second: Tutortial Animations_12
+  - first:
+      213: -391363800338337458
+    second: Tutortial Animations_13
+  - first:
+      213: -7994103226889173418
+    second: Tutortial Animations_14
+  - first:
+      213: 3644580878164559611
+    second: Tutortial Animations_15
+  - first:
+      213: -1794109128783111164
+    second: Tutortial Animations_16
+  - first:
+      213: -460630677936092655
+    second: Tutortial Animations_17
+  - first:
+      213: -2894534497030144842
+    second: Tutortial Animations_18
+  - first:
+      213: -4122199480821308904
+    second: Tutortial Animations_19
+  - first:
+      213: 7257577874881706653
+    second: Tutortial Animations_20
+  - first:
+      213: 5198856692714181535
+    second: Tutortial Animations_21
+  - first:
+      213: -6467345994859625762
+    second: Tutortial Animations_22
+  - first:
+      213: 5036261514908519505
+    second: Tutortial Animations_23
+  - first:
+      213: -4319055139949364056
+    second: Tutortial Animations_24
+  - first:
+      213: 1929511164687651557
+    second: Tutortial Animations_25
+  - first:
+      213: 4743912350202954026
+    second: Tutortial Animations_26
+  - first:
+      213: -4140719394553634369
+    second: Tutortial Animations_27
+  - first:
+      213: 8331121568556058263
+    second: Tutortial Animations_28
+  - first:
+      213: 3347887451965677713
+    second: Tutortial Animations_29
+  - first:
+      213: -471740993616528656
+    second: Tutortial Animations_30
+  - first:
+      213: -595695909861823791
+    second: Tutortial Animations_31
+  - first:
+      213: -8820956501425822900
+    second: Tutortial Animations_32
+  - first:
+      213: 3632460620266381813
+    second: Tutortial Animations_33
+  - first:
+      213: 6248567530923658140
+    second: Tutortial Animations_34
+  - first:
+      213: -5633170113055425491
+    second: Tutortial Animations_35
+  - first:
+      213: -1165446376426384470
+    second: Tutortial Animations_36
+  - first:
+      213: 3158190144767539030
+    second: Tutortial Animations_37
+  - first:
+      213: 8761961894503841346
+    second: Tutortial Animations_38
+  - first:
+      213: 3406160286871271888
+    second: Tutortial Animations_39
+  - first:
+      213: 3020580987078016642
+    second: Tutortial Animations_40
+  - first:
+      213: 7794085260209801152
+    second: Tutortial Animations_41
+  - first:
+      213: 3646964472531882370
+    second: Tutortial Animations_42
+  - first:
+      213: 2431401201721921838
+    second: Tutortial Animations_43
+  - first:
+      213: 4916192707265708435
+    second: Tutortial Animations_44
+  - first:
+      213: -3951475913176643544
+    second: Tutortial Animations_45
+  - first:
+      213: -3050085414424192562
+    second: Tutortial Animations_46
+  - first:
+      213: -3552830146446620457
+    second: Tutortial Animations_47
+  - first:
+      213: 3134531786258484463
+    second: Tutortial Animations_48
+  - first:
+      213: -1927715004141284212
+    second: Tutortial Animations_49
+  - first:
+      213: -7878042976241655695
+    second: Tutortial Animations_50
+  - first:
+      213: -1690327255085915779
+    second: Tutortial Animations_51
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tutortial Animations_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 165
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811ef6c423f10a9d0800000000000000
+      internalID: -2765175870314258152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutortial Animations_1
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 960
+        width: 165
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62433028475a23720800000000000000
+      internalID: 2824501836130759718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutortial Animations_2
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 960
+        width: 165
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f629f452b38880a0800000000000000
+      internalID: -6879103628855400713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutortial Animations_3
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 960
+        width: 165
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95545d929ab2e27e0800000000000000
+      internalID: -1788443996468198055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutortial Animations_4
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 960
+        width: 165
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591e58bade0ac1260800000000000000
+      internalID: 7069702457710207381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutortial Animations_5
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 960
+        width: 165
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c59792b9a9453c0800000000000000
+      internalID: -4371699347063481337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutortial Animations_6
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 960
+        width: 165
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac60bbed0ec9a4a0800000000000000
+      internalID: -6581502821241164632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutortial Animations_7
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 960
+        width: 165
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e811be344fb5e70800000000000000
+      internalID: 9105139644203372101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutortial Animations_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 165
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf06f98deb0abf50800000000000000
+      internalID: 6897838894121095090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutortial Animations_9
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 640
+        width: 165
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c6f4ba05984ad0a0800000000000000
+      internalID: -6856087677751200064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutortial Animations_10
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 640
+        width: 165
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d2c7b5aaf74e83c0800000000000000
+      internalID: -4355464647773011247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutortial Animations_11
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 640
+        width: 165
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390de664ba26970a0800000000000000
+      internalID: -6883362067698495341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutortial Animations_12
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 640
+        width: 165
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52c5c3f4a49026b0800000000000000
+      internalID: -5323091323366555041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutortial Animations_13
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 640
+        width: 165
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41f2e672b8919af0800000000000000
+      internalID: -391363800338337458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutortial Animations_14
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 640
+        width: 165
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656877f387d3f0190800000000000000
+      internalID: -7994103226889173418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutortial Animations_15
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 640
+        width: 165
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf60e26bff6249230800000000000000
+      internalID: 3644580878164559611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutortial Animations_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 165
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40cd892c04b0a17e0800000000000000
+      internalID: -1794109128783111164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutortial Animations_17
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 320
+        width: 165
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ac8f4c6d28b99f0800000000000000
+      internalID: -460630677936092655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutortial Animations_18
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 320
+        width: 165
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc776af53c84d7d0800000000000000
+      internalID: -2894534497030144842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutortial Animations_19
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 320
+        width: 165
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812a85c99610bc6c0800000000000000
+      internalID: -4122199480821308904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutortial Animations_20
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 320
+        width: 165
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9afe0aff9818b460800000000000000
+      internalID: 7257577874881706653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutortial Animations_21
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 320
+        width: 165
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9314670e9c062840800000000000000
+      internalID: 5198856692714181535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutortial Animations_22
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 320
+        width: 165
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed2c8d8451f5f36a0800000000000000
+      internalID: -6467345994859625762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutortial Animations_23
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 320
+        width: 165
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15cc7102a2564e540800000000000000
+      internalID: 5036261514908519505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutortial Animations_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 165
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac3ef9cb32af04c0800000000000000
+      internalID: -4319055139949364056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutortial Animations_25
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 0
+        width: 165
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e29b596e2007ca10800000000000000
+      internalID: 1929511164687651557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3678d11d40ee3404cbb54833707c6cfb
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

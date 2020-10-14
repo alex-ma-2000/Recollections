@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 975df9793a05ba44091e2ed039d02ab7, type: 3}
+  m_Name: 656A0B2F-9E36-4051-8658-46B9746BCDD4
+  m_EditorClassIdentifier: 
+  objectName: Trigger_Memory_Full_3
+  id: 2761296587
+  guid: 656A0B2F-9E36-4051-8658-46B9746BCDD4
